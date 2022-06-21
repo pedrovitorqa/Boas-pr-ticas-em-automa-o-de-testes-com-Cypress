@@ -1,1 +1,1 @@
-# Boas-pr-ticas-em-automa-o-de-testes-com-Cypress
+# Boas práticas em automação de testes com Cypress
